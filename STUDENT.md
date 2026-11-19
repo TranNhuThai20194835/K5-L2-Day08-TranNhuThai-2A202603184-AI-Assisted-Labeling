@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: TranNhuThai20194835 
 - Repo bài nộp (URL): https://github.com/TranNhuThai20194835/K5-L2-Day08-TranNhuThai-2A202603184-AI-Assisted-Labeling.git
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): 'Hoan thanh bai lab Day08'
 - Máy: Window, GPU
 - CVAT (Docker): v2.81.0
 
